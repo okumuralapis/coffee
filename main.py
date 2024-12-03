@@ -23,6 +23,8 @@ class Coffee(QMainWindow):
                 self.table.setItem(
                     i, j, QTableWidgetItem(str(elem)))
 
+    def additem(self):
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
