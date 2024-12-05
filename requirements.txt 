@@ -1,3 +1,0 @@
-USED
-- PyQt6.Widget (QApplication, QMainWindow, QTableWidget, QTableWidgetItem)
-- sql "coffee.sqlite"
